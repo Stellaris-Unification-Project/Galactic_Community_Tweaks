@@ -1,0 +1,24 @@
+[h3]Stellaris compatibility: 3.2.x[/h3]
+
+Makes a few changes to diplomatic constants, mostly revolving around favors and the galactic community timers:
+
+[h2]Favors[/h2]
+[list]
+[*] [b]Influence cost[/b] to call in favors in the galactic community reduced to [b]5 influence/favor[/b] (from vanilla 10). This keeps the cost relatively consistent with halved voting cooldowns.
+[/list]
+
+[h2]Resolution timers[/h2]
+[i]Halved timers in the galactic community compared to vanilla to make progress more dynamic. Halved voting cooldown to accommodate the shorter voting.[/i]
+[list]
+[*] [b]Resolution voting time[/b]  set to 720 days (from vanilla 1440)
+[*] [b]Senate recess[/b] set to 360 days (from vanilla 720)
+[*] [b]Voting cooldown[/b] set to 60 days (from vanilla 120)
+[*] [b]Council election cooldown[/b] set to 3600 days (from vanilla 7200)
+[*] [b]Premature voting cooldown[/b] (Custodian/Emperor action) set to 360 days (from vanilla 720)
+[*] [b]Community resolution freeze[/b] (Custodian/Emperor action) set to 24 months (from vanilla 48) 
+
+[*] [b]Category vote cooldown[/b] set to 1260 days (from vanilla 2520)
+[*] [b]Type vote cooldown[/b] set to 2520 days (from vanilla 5040)
+[*] [b]Veto cooldown[/b] set to 900 days (from vanilla 1800)
+[*] [b]Emergency measures cooldown[/b] set to 3600 days (from vanilla 7200)
+[/list]
